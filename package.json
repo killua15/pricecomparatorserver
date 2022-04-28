@@ -1,0 +1,19 @@
+{
+  "name": "pricecomparatorserver",
+  "version": "0.0.1",
+  "description": "Scraper site of sell products in brazil",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/killua15/pricecomparatorserver.git"
+  },
+  "author": "David Lopez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/killua15/pricecomparatorserver/issues"
+  },
+  "homepage": "https://github.com/killua15/pricecomparatorserver#readme"
+}
